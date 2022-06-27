@@ -1,0 +1,3 @@
+C:/Jano/Prog2/zadanie4/cmake-build-debug/CMakeFiles/z4.dir
+C:/Jano/Prog2/zadanie4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Jano/Prog2/zadanie4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

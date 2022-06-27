@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Jano/Prog2/zadanie4/src/data.h
+
+C:/Jano/Prog2/zadanie4/src/rng.h
+
+C:/Jano/Prog2/zadanie4/src/z4.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+rng.h
+C:/Jano/Prog2/zadanie4/src/rng.h
+data.h
+C:/Jano/Prog2/zadanie4/src/data.h
+
